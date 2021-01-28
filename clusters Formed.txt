@@ -1,0 +1,24 @@
+Cluster # 1
+SHP1	MYO4	TFC3	
+
+Cluster # 2
+RVS161	YAR010C	
+
+Cluster # 3
+YCL047C	YBL071C	
+
+Cluster # 4
+GLK1	CLB2	
+
+Cluster # 5
+YOR291W	
+
+Cluster # 6
+TFC1	
+
+Cluster # 7
+ASN1	
+
+Cluster # 8
+FHL1	
+
