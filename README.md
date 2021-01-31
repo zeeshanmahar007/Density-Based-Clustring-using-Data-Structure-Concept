@@ -9,11 +9,11 @@ The following data structures were used:
 
 ## DataSet
 
-FILE FORMAT:
+<b> FILE FORMAT: </b>
 
 [NODE1] [NEIGHBOUR NODE] [EDGE WEIGHT]
 
-Sample Input:
+<b> Sample Input: </b>
 
 Enter the filename to read the file : Sample.txt
 
