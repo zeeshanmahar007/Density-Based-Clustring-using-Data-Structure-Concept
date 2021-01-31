@@ -7,6 +7,14 @@ The following data structures were used:
 - AVL Tree
 - Heap
 
+## Algorithm
+
+- Start with a single node as a cluster 
+- Grow cluster by adding nodes from neighbors one by one  
+ 
+ 
+ 
+
 ## DataSet
 
 <b> FILE FORMAT: </b>
