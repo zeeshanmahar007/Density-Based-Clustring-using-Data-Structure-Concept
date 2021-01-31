@@ -22,3 +22,42 @@ Enter threshold value for density : 1
 Enter threshold value for CP : 1
 
 
+<b> Input Data: </b>
+
+TFC3	MYO4	0.014
+TFC3	SHP1	0.117
+TFC3	TFC1	0.989
+MYO4	SHP1	0.3
+GLK1	CLB2	0.015
+GLK1	ASN1	0.016
+YCL047C	YBL071C	0.02
+YCL047C	YOR291W	0.02
+RVS161	YAR010C	0.172
+RVS161	FHL1	0.01
+
+<b> output Cluster: </b>
+
+Cluster # 1
+SHP1	MYO4	TFC3	
+
+Cluster # 2
+RVS161	YAR010C	
+
+Cluster # 3
+YCL047C	YBL071C	
+
+Cluster # 4
+GLK1	CLB2	
+
+Cluster # 5
+YOR291W	
+
+Cluster # 6
+TFC1	
+
+Cluster # 7
+ASN1	
+
+Cluster # 8
+FHL1	
+
